@@ -1,0 +1,6 @@
+{
+    "name": "framework-arduinoMattairTechs",
+    "description": "Arduino Wiring-based Framework for Mattairtech boards",
+    "url": "https://github.com/rletendu/ArduinoCore-avr-Mattairtech",
+    "version": "0.0.1-dev"
+}
